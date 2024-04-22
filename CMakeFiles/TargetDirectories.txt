@@ -1,5 +1,0 @@
-/mnt/c/Users/kabaz/Documents/GitHub/RGBFL-CPP/CMakeFiles/edit_cache.dir
-/mnt/c/Users/kabaz/Documents/GitHub/RGBFL-CPP/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/kabaz/Documents/GitHub/RGBFL-CPP/src/CMakeFiles/RGBFL.dir
-/mnt/c/Users/kabaz/Documents/GitHub/RGBFL-CPP/src/CMakeFiles/edit_cache.dir
-/mnt/c/Users/kabaz/Documents/GitHub/RGBFL-CPP/src/CMakeFiles/rebuild_cache.dir
